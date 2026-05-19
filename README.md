@@ -1,1 +1,11 @@
 # Excel-Sales-Dashboard
+
+## Features
+- Pivot Tables
+- Slicers
+- Interactive Charts
+- Dark Neon Theme
+
+## Preview
+(<img width="1241" height="816" alt="image" src="https://github.com/user-attachments/assets/9ece2478-ea43-466b-9fb4-485d67a1794a" />
+)
